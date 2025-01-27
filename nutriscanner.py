@@ -666,7 +666,7 @@ def get_base64(bin_file):
 
 try:
     # Encode your local image
-    img_file = get_base64("/Users/91876/nutriscanner/bg.jpg")
+    img_file = get_base64("bg.jpg")
     
     # Inject CSS with the base64 string
     page_bg_img = f'''
