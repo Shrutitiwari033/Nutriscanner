@@ -278,7 +278,7 @@ def extract_nutriscore_grade(nutri_score_text):
         return match.group(1)
     return None
 
-def display_nutriscore_visual(grade):
+def display_nutriscore_visual():
     """Display the visual NutriScore grade circles"""
     colors = {
         'A': '#038141',  # Dark Green
