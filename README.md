@@ -21,3 +21,6 @@ NutriScan is a Python-based application powered by **Streamlit** that leverages 
    git clone https://github.com/Shrutitiwari033/nutriscanner.git
    cd nutriscan
    streamlit run nutriscanner.py
+Open the link provided in the terminal (e.g., http://localhost:8501) in your browser.
+
+
